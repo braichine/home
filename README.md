@@ -10,6 +10,8 @@ https://app.runwayml.com/ |
 https://creator.nightcafe.studio/ |
 https://beta.dreamstudio.ai/generate | 25 credits
 
+https://onlyfakes.app/ | erotic
+
 ## Image Generation Software
 
 NMKD Stable Diffusion GUI - Bilder-KI
