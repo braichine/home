@@ -24,5 +24,9 @@ NMKD Stable Diffusion GUI - Bilder-KI
 
 https://creators.aiva.ai | The AI composing emotional soundtrack music
 
+https://mubert.com/render | whole song in 3 hours - production in style of "Harry Styles", male vocals; topic about war and freedom
+
+
+
 ## Audio Monitorisation
 
